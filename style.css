@@ -1,0 +1,8 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.handsfree-pointer {display: none !important}
+.handsfree-debugger {opacity: 0.25 !important}
